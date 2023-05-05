@@ -1,0 +1,13 @@
+﻿# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# JetBrains Rider
+.idea/
+*.sln.iml
